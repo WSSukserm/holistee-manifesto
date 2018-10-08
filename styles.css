@@ -1,0 +1,183 @@
+body {
+		background: white;
+  	font-family:'Rokkitt', serif;
+  	font-size: 20px;
+		font-style: italic;
+		width: 550px;
+
+}
+
+#parent-div {
+	background: white;
+	overflow: auto;
+}
+
+.your-life {
+	background: #80002a;
+	color: white;
+	font-size: 35px;
+	float: left;
+	padding: 5px;
+	line-height: 75px;
+	text-align: center;
+	width: 300px;
+	height: 220px;
+}
+
+#life {
+	font-family: 'Pacifico', cursive;
+	font-size: 90px;
+	height: 10px;
+	text-align: center;
+}
+
+.do {
+	background: #ffffff;
+	border: solid 2px #80002a;
+	color: #999999;
+	float: left;
+	font-size: 20px;
+	height: 206px;
+	width: 208px;
+	line-height: 28px;
+	padding: 10px;
+	text-align: center;
+}
+
+#change-it {
+	color: #80002a;
+	font-family: 'Rokkitt', serif;
+	font-size: 30px;
+	font-variant: small-caps;
+	font-weight: bold;
+	padding: 10px;
+}
+
+.love-of-your-life {
+	font-family: 'Pacifico', cursive;
+	color: #80002a;
+	clear: both;
+	text-align: center;
+	padding: 5px;
+}
+
+#stop {
+	color: #999999;
+	font-family: 'Rokkitt', serif;
+	font-variant: small-caps;
+	font-size: 30px;
+	height: 207px;
+}
+
+.Analyzing {
+	background: #ffffff;
+	border: solid 2px #80002a;
+	color: #999999;
+	float: left;
+	font-size: 20px;
+	height: 207px;
+	width: 208px;
+	line-height: 28px;
+	padding: 10px;
+	text-align: center;
+
+}
+
+#beautiful {
+	color: #80002a;
+	font-family: 'Rokkitt', serif;
+	font-size: 30px;
+	font-variant: small-caps;
+	font-weight: bold;
+	padding: 10px;
+}
+
+.Mind-heart-arms {
+	background: #80002a;
+	color: white;
+	font-size: 18px;
+	float: left;
+	line-height: 20px;
+	padding: 10px;
+	text-align: center;
+	width: 290px;
+	height: 211px;
+
+}
+
+#mind, #heart, #arms {
+	font-family: 'Pacifico', cursive;
+	font-size: 25px;
+	line-height: 0px;
+}
+
+
+.ask {
+	font-family: 'Pacifico', cursive;
+	color: #80002a;
+	clear: both;
+	text-align: center;
+	padding: 5px;
+	clear: both;
+}
+
+#share {
+	color: #999999;
+	font-family: 'Rokkitt', serif;
+	font-variant: small-caps;
+	font-size: 30px;
+}
+
+.travel-often {
+	background: #80002a;
+	color: white;
+	font-family: 'Pacifico', cursive;
+	font-size: 35px;
+	float: left;
+	line-height: 70px;
+	padding: 5px;
+	text-align: center;
+	width: 300px;
+}
+
+#often {
+	text-decoration: underline;
+}
+
+.getting-lost {
+	background: #ffffff;
+	border: solid 2px #80002a;
+	color: #999999;
+	float: left;
+	font-size: 20px;
+	height: 196px;
+	width: 208px;
+	line-height: 28px;
+	padding: 10px;
+	text-align: center;
+}
+
+#find, #yourself {
+	color: #80002a;
+	font-family: 'Rokkitt', serif;
+	font-size: 30px;
+	font-variant: small-caps;
+	font-weight: bold;
+	padding: 25px;
+	text-align: center;
+}
+
+.meeting-people {
+	font-family: 'Pacifico', cursive;
+	color: #80002a;
+	clear: both;
+	text-align: center;
+	padding: 5px;
+}
+
+#life-is-short {
+	color: #999999;
+	font-family: 'Rokkitt', serif;
+	font-variant: small-caps;
+	font-size: 30px;
+}
